@@ -1,1 +1,5 @@
-# Ejercicios---03-Lenguaje-DAW-
+En este repositorio se hallarán ejercicios con :
+  - Arrays unidimensionales 
+  - Arrays multidimensionales
+  - Técnica doble buffer
+  - Expresiones regulares
